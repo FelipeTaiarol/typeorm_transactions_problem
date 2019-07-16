@@ -2,5 +2,8 @@
 
 ```
 npm install
-npm start
+```
+
+```
+./test.sh
 ```
